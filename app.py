@@ -3,7 +3,10 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Title
-st.title("Smart Health Tracker")
+st.title("❤️ ArogyaMitra")
+
+
+
 
 # --- Inputs ---
 age = st.number_input("Enter your age", min_value=1, step=1)

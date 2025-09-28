@@ -1,4 +1,4 @@
-# Smart Health Tracker
+# ArogyaMitra
 
 A Streamlit-based web app to track and visualize daily health metrics.  
 Features include:
