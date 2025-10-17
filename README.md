@@ -1,19 +1,23 @@
-# ArogyaMitra
+# 💡 LifeStat – Smart Health Tracker
 
-A Streamlit-based web app to track and visualize daily health metrics.  
-Features include:
-- BMI calculation and personalized feedback  
-- Daily health input (age, weight, steps, sleep)  
-- CSV upload for weekly health data  
-- Visual charts powered by Matplotlib  
+**LifeStat** is a Python & Streamlit application to monitor your daily health metrics and visualize weekly progress. Track your steps, sleep, BMI, and lifestyle trends effortlessly.
 
-### Tech Stack
-- Python
-- Streamlit
-- Pandas
-- Matplotlib
+---
 
-### How to Run
+## Features
+- Daily input of age, weight, height, steps, and sleep hours
+- Automatic BMI calculation with health guidance
+- Daily summary visualization (bar chart)
+- Weekly CSV upload and analysis
+- Weekly average calculation for steps & sleep
+- Weekly progress chart (line chart)
+- Interactive Streamlit dashboard with modern UI
+
+---
+
+## Installation
+
+1. **Clone the repository**
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+git clone https://github.com/Prem20046/LifeStat.git
+cd LifeStat
